@@ -5,8 +5,8 @@ Bot:
   Goroutine: false # Обрабатывать ли события асинхронно
 
 Vk:
-  Token: 'vk1.a.KeGjwzxcV3ESylkzq3EuB8WAE_xuQUR2ZDTIMyHWZqjQgebgwCqCj0k25K6U9kZFg65xxiPfeHgJN9OFVz9eK_ljD8SaJRIU4XNkJeKWFka4Eq8SVpYda2oajMTqbwFD7ytpYj28tPQKT3imuB4UB_AcTQWhTD23F-VvjlW_pQpNsu9YtvfgqGjldghW29CKtUtmW2YqRjMP93Ppaqv6EA'
-  GroupId: 220348328
+  Token: 'TOKEN'
+  GroupId: 000000000
   Command:
     Prefix:
       - '/'
